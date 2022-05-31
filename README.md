@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![react](https://img.shields.io/badge/GitHgdub-000000?style=for-the-badge&logo=#61DAFB&logoColor=red)
+![#61DAFB](https://img.shields.io/badge/GitHgdub-000000?style=for-the-badge&logo=#61DAFB&logoColor=red)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
