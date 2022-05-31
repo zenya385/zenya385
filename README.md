@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![#09D3AC](https://img.shields.io/badge/GitHub-000001?style=for-the-badge&logo=#61DAFB&logoColor=#09D3AC)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!--
 **zenya385/zenya385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
