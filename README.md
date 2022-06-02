@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+🇺🇦 Hi, I’m Roman
+👀 I’m interested in getting a Frontend Developer job
+🔥 I’m enthusiastic and optimistic
+📫 How to reach me out zeno385g@gmail.com
+
 
 <!--
 **zenya385/zenya385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
