@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
-🇺🇦 Hi, I’m Roman                                                                                                                                                         
-👀 I’m interested in getting a Frontend Developer job                                                                                                                     
-🔥 I’m enthusiast and optimist                                                                                                                                       
-📫 How to reach me out zeno385@gmail.com
+- 🇺🇦 Hi, I’m Roman                                                                                                                                                     
+- 👀 I’m interested in getting a Frontend Developer job                                                                                                               
+- 🔥 I’m enthusiast and optimist                                                                                                                                       
+- 📫 How to reach me out zeno385@gmail.com
 
 ### My stack and tools
 
