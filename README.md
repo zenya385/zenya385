@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=-+🇺🇦+Hi+,+I’m+Roman                                                                                                                                                    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E59F7&lines=%F0%9F%87%BA%F0%9F%87%A6+Hi%2C+I%E2%80%99m+Roman+%F0%9F%91%80+;I%E2%80%99m+interested+in+getting+a+Frontend+Developer+job+%F0%9F%94%A5;%F0%9F%94%A5+I%E2%80%99m+enthusiast+and+optimist+;%F0%9F%93%AB+How+to+reach+me+out+zeno385%40gmail.com)](https://git.io/typing-svg)                                                                                                                                          
 - 🇺🇦 Hi, I’m Roman                                                                                                                                                     
 - 👀 I’m interested in getting a Frontend Developer job                                                                                                               
 - 🔥 I’m enthusiast and optimist                                                                                                                                       
