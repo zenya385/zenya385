@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=10EBDF&background=1A5D69&center=true&multiline=true&width=900&height=180&lines=Hi+there+%F0%9F%91%8B+;+++I%E2%80%99m+Roman+;%F0%9F%91%80+I%E2%80%99m+interested+in+getting+a+Frontend+Developer+job+;%F0%9F%94%A5+I%E2%80%99m+enthusiast+and+optimist+;%F0%9F%93%AB+How+to+reach+me+out+zeno385%40gmail.com)](https://git.io/typing-svg)                                                                                                         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=10EBDF&background=1A5D69&center=true&multiline=true&width=900&height=180&lines=%F0%9F%91%8B+Hi+there+%F0%9F%91%8B+;+++I%E2%80%99m+Roman+;%F0%9F%91%80+I%E2%80%99m+interested+in+getting+a+Frontend+Developer+job+;%F0%9F%94%A5+I%E2%80%99m+enthusiast+and+optimist+;%F0%9F%93%AB+How+to+reach+me+out+zeno385%40gmail.com)](https://git.io/typing-svg)                                                                                                         
 email: zeno385@gmail.com
 
 ### My stack and tools
